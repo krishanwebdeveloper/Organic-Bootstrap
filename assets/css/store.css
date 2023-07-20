@@ -1,0 +1,878 @@
+.searchbox {
+    width: 386px;
+    height: 46px;
+    margin-top: 13px;
+    margin-left: 69px;
+    padding: .375rem .75rem;
+    border-radius: 30px;
+    border: 1px solid #CFC7C7;
+}
+ main, header, footer{
+    overflow: hidden;
+} 
+
+.head1 {
+    position: fixed !important;
+}
+
+
+.searchbox::placeholder {
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+.searchicon {
+
+    margin-left: -51px;
+    margin-top: -4px;
+}
+
+.organiclogo {
+    width: 289px;
+    margin-left: 98px;
+    margin-top: 6px;
+}
+
+.pic1 {
+
+    margin-left: 50px;
+    margin-top: 16px;
+    width: 44px;
+}
+
+.welcome {
+    font-size: 19px;
+    margin-left: -27px;
+    margin-top: 12px;
+    color: #BEADAD;
+}
+
+.formsign {
+    position: fixed !important;
+    z-index: 5;
+}
+
+
+.sign {
+    border: none !important;
+    font-size: 17px;
+    margin-left: -35px;
+    margin-top: -20px;
+}
+
+.pic2 {
+
+    width: 44px;
+    margin-top: 17px;
+}
+
+.mycart {
+    margin-left: -71px;
+    font-size: 21px;
+    margin-top: 11px;
+    color: #BEADAD;
+}
+
+.rupees {
+    font-size: 16px;
+    margin-left: -67px;
+    margin-top: -4px;
+}
+
+.backgreen {
+
+    width: 100%;
+    height: 70px;
+
+
+    background-color: #7FB401;
+
+
+}
+
+.home {
+    margin-left: 55px;
+
+
+}
+
+.dropdown-item:hover {
+    background-color: #00FA32 !important;
+
+    animation-timing-function: ease-in-out;
+    animation-delay: 5s;
+    border: none !important;
+
+}
+
+.home {
+    color: white !important;
+    font-weight: 700 !important;
+}
+
+.pic3 {
+    width: 35px;
+}
+
+.image1 {
+    position: absolute;
+    z-index: -1;
+    height: 600px;
+    object-fit: cover;
+    margin-left: 453px;
+    margin-top: 5px;
+}
+
+.circle1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid #6164a4d8;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.organic100 {
+    font-size: 25px;
+    font-family: 'Inter Tight', sans-serif;
+    margin-top: 60px;
+    text-align: center;
+    width: 89px;
+    margin-left: 47px;
+}
+
+.circle2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid #6164a4d8;
+    margin-left: 100px;
+    position: relative;
+    top: 340px;
+
+}
+
+.organic1001 {
+    font-size: 24px;
+    font-family: 'Inter Tight', sans-serif;
+    margin-top: 61px;
+    text-align: center;
+}
+
+.rectangle {
+    width: 100%;
+    height: 60px;
+    background-color: #AA9595;
+    margin-top: 400px;
+}
+
+.homy {
+    font-size: 20px;
+    margin-left: 90px;
+    padding-top: 20px;
+    color: white;
+}
+
+.gap {
+    margin-left: 20px;
+}
+
+.top {
+    margin-top: 50px;
+}
+
+.image2 {
+    width: 300px;
+    margin-left: 60px;
+}
+
+.tea {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.herbal {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 122px;
+    margin-top: 30px;
+}
+
+.staple {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 104px;
+    margin-top: 30px;
+}
+
+.personal {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 152px;
+    margin-top: 30px;
+}
+
+.well {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 94px;
+    margin-top: 30px;
+}
+
+.gift {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 185px;
+    margin-top: 30px;
+}
+
+.pic5 {
+    width: auto;
+    height: 150px;
+    margin-left: 91px;
+    margin-top: 30px;
+}
+
+.powder {
+    font-size: 20px;
+    margin-left: 47px;
+    color: #8F8C8C;
+}
+
+
+.pic6 {
+    width: 123px;
+    margin-left: 64px;
+}
+
+.doller {
+    font-size: 20px;
+    margin-left: 99px;
+    margin-top: 10px;
+}
+
+.move {
+    margin-left: px;
+}
+
+.backlight {
+
+
+    background-color: #fbebe4e9;
+    height: 850px;
+}
+
+.search {
+    margin-top: 20px;
+    width: 400px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.searchicon1 {
+    width: 40px;
+    background-color: #7FB401;
+    padding: 4px 10px 5px 9px;
+    margin-left: -44px;
+    margin-top: -6px;
+}
+
+.categories {
+    font-size: 24px;
+    margin-left: 76px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.veg {
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 133px;
+    color: #535050;
+    margin-bottom: 10px;
+}
+
+.filter {
+    text-decoration: none;
+    color: white;
+    margin-left: 95px;
+    padding-top: 30px;
+    background-color: #7FB401;
+    padding: 5px 10px 5px 10px;
+}
+
+.price {
+    font-size: 18px;
+    margin-left: -3px;
+    margin-top: -1px;
+    font-weight: bold;
+}
+
+.tt5 {
+    width: auto;
+    height: 70px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.powder1 {
+    font-size: 17px;
+
+    color: #8F8C8C;
+    margin-top: 20px;
+    margin-left: -20px;
+
+}
+
+
+.tt6 {
+    width: 123px;
+    margin-left: -20px;
+
+}
+
+.doller1 {
+    font-size: 20px;
+    margin-left: -20px;
+    margin-top: 10px;
+}
+
+.viewmore {
+    float: right;
+    margin-right: 200px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #7FB401;
+    padding: 5px 30px 5px 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.contleft {
+    margin-left: -150px;
+}
+
+.fill2 {
+    width: auto;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.cos {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.roundshap {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid blue;
+    border-style: dashed;
+    stroke-dasharray: 10px;
+}
+
+.circle10 {
+
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 632px;
+    margin-top: 50px;
+}
+
+.circle11 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    ;
+    float: right;
+    margin-right: 259px;
+    margin-top: 12px;
+    position: relative;
+    top: -65px;
+}
+
+.circle12 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 259px;
+    position: relative;
+    top: -65px;
+
+}
+
+.circle13 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 632px;
+
+    position: relative;
+    top: -111px;
+}
+
+.circle14 {
+    width: 200px;
+    float: right;
+    text-align: center;
+    margin-right: 259px;
+    position: relative;
+    top: -162px;
+
+}
+
+.circle15 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 259px;
+    position: relative;
+    top: -161px;
+
+}
+
+.circle16 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 632px;
+    position: relative;
+    top: -221px;
+}
+
+.cosmet {
+    text-align: center;
+    position: relative;
+    top: -112px;
+    font-size: 20px;
+
+}
+
+.farmers {
+    float: right;
+    position: relative;
+    top: 39px;
+    font-size: 20px;
+    left: 145px;
+
+}
+
+.fruits {
+
+    position: relative;
+    top: -175px;
+    font-size: 20px;
+    left: 328px;
+}
+
+.healthy {
+    text-align: center;
+    position: relative;
+    top: -218px;
+    font-size: 20px;
+}
+
+.indus {
+    float: right;
+    position: relative;
+    top: -65px;
+    font-size: 20px;
+    left: 145px;
+}
+
+.cater {
+    position: relative;
+    top: -272px;
+    font-size: 20px;
+    left: 312px;
+}
+
+.res {
+    text-align: center;
+    position: relative;
+    top: -329px;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: -150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.backblack {
+    background-color: #363636;
+    width: 100%;
+    height: 400px;
+    margin-top: 70px;
+}
+
+.darkblack {
+    background-color: #2F2F2F;
+    width: 100%;
+    height: 50px;
+}
+
+.whiteorganiclogo {
+    width: 252px;
+    margin-top: 10px;
+    margin-left: 23px;
+    margin-bottom: 30px;
+
+}
+
+.footpara {
+    color: white;
+    margin-left: 23px;
+
+}
+
+.buytheme {
+    background-color: #7FB401;
+    padding: 10px 30px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: none;
+}
+
+.buytheme a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.category {
+    color: white;
+    font-size: 22px;
+    margin-left: 80px;
+    margin-top: 28px;
+}
+
+.form {
+    margin-top: 40px
+}
+
+.closed {
+    color: #7FB401;
+}
+
+.formers {
+    font-size: 17px;
+    color: white;
+    margin-left: 80px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.copyright {
+    color: white;
+    margin-left: 28px;
+    margin-top: 15px;
+}
+
+.icon1 {
+    margin-top: 10px;
+}
+
+.icon3 {
+    margin-top: 10px;
+}
+
+.icon4 {
+    margin-top: 10px;
+    height: 30px;
+}
+.company{
+    color: black;
+    background-color: #7FB401;
+    padding: 2px 33px 8px 32px;
+    margin-left: 79px;
+    border-radius: 10px;
+    position: relative;
+    top: 13px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+@media screen and (max-width:500px) {
+    .searchbox {
+        margin-left: 44px;
+        width: 300px;
+    }
+
+    .organiclogo {
+        width: 243px;
+        margin-left: -143px;
+        margin-top: 66px;
+    }
+
+    .welcome {
+
+        margin-left: -4px;
+    }
+
+    .sign {
+
+        margin-left: -16px;
+
+    }
+
+    .mycart {
+        margin-left: -49px;
+    }
+
+    .rupees {
+
+        margin-left: -49px;
+
+    }
+
+    .backgreen {
+
+        width: 100%;
+        height: auto;
+
+
+    }
+    .image1 {
+        position: absolute;
+        z-index: -1;
+        height: auto;
+        object-fit: cover;
+        margin-left: 72px;
+        margin-top: 5px;
+        width: 260px;
+    }
+    .circle1 {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+       
+        float: right;
+        margin-right: 10px;
+        margin-top: 14px;
+        text-align: center;
+    }
+    .organic100 {
+        font-size: 14px;
+     
+        margin-top: 13px;
+        text-align: center;
+        width: 89px;
+        margin-left: -13px;
+    }
+    .circle2 {
+        width: 80px;
+        height: 80px;
+    
+       
+        margin-left: 10px;
+        position: relative;
+        top: 172px;
+    }
+    .herbal {
+        font-size: 20px;
+        font-weight: 600;
+        margin-left: 113px;
+        margin-top: 30px;
+    }
+    .organic1001 {
+        font-size: 13px;
+      
+        margin-top: 17px;
+        text-align: center;
+    }
+    .rectangle {
+       
+        margin-top: 200px;
+    }
+    .homy {
+        font-size: 10px;
+        margin-left: 42px;
+        padding-top: 25px;
+        color: white;
+        width: 100%;
+    }
+    .gift {
+        font-size: 20px;
+        font-weight: 600;
+        margin-left: 158px;
+        margin-top: 14px;
+    }
+    .image2 {
+        width: 200px;
+        margin-left: 96px;
+        margin-top: 20px;
+    }
+    .jillaman{
+        margin-left: 70px;
+    }
+    .search {
+        margin-top: 20px;
+        width: 299px;
+        height: 30px;
+        margin-left: 30px;
+    }
+    .viewmore {
+        float: right;
+        margin-right: 127px;
+    }
+    .contleft {
+        margin-left: 55px;
+    }
+    .circle10 {
+        width: 200px;
+        margin: auto;
+        text-align: center;
+        margin-left: 96px;
+        margin-top: 50px;
+    }
+    .circle11 {
+        float: right;
+        margin-right: 101px;
+        margin-top: 50px;
+    }v
+    .farmers {
+        float: right;
+        position: relative;
+        top: 66px;
+        font-size: 20px;
+        left: 142px;
+    }
+    .circle12 {
+        width: 200px;
+        margin: auto;
+        text-align: center;
+        margin-left: 102px;
+        position: relative;
+        top: -49px;
+    }
+    
+
+.fruits {
+    position: relative;
+    top: -163px;
+    font-size: 20px;
+    left: 173px;
+}
+.circle13 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 108px;
+    position: relative;
+    top: -69px;
+}
+.healthy {
+    text-align: center;
+    position: relative;
+    top: -184px;
+    font-size: 20px;
+    left: 10px;
+}
+.circle14 {
+    width: 200px;
+    float: right;
+    text-align: center;
+    margin-right: 87px;
+    position: relative;
+    top: -92px;
+}
+.indus {
+    float: right;
+    position: relative;
+    top: -6px;
+    font-size: 20px;
+    left: 145px;
+}
+.staple {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 88px;
+    margin-top: 30px;
+}
+.circle15 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 121px;
+    position: relative;
+    top: -84px;
+}
+.pic5 {
+    width: auto;
+    height: 150px;
+    margin-left: 91px;
+    margin-top: 30px;
+}
+.cater {
+    position: relative;
+    top: -197px;
+    font-size: 20px;
+    left: 170px;
+}
+.circle16 {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-left: 123px;
+    position: relative;
+    top: -97px;
+}
+.res {
+    text-align: center;
+    position: relative;
+    top: -208px;
+    font-size: 20px;
+    left: 23px;
+}
+.backblack {
+    background-color: #363636;
+    width: 100%;
+    height: auto;
+}
+.copyright {
+    color: white;
+    margin-left: 11px;
+    margin-top: 17px;
+    font-size: 10px;
+}
+.icon1, .icon2, .icon3, .icon4{
+    margin-left: 220px;
+    margin-top: -80px;
+    width: 33px;
+    height: 33px;
+    
+}
+
+}

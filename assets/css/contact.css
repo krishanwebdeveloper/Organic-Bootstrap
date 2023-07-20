@@ -1,0 +1,520 @@
+.searchbox {
+    width: 386px;
+    height: 46px;
+    margin-top: 13px;
+    margin-left: 69px;
+    padding: .375rem .75rem;
+    border-radius: 30px;
+    border: 1px solid #CFC7C7;
+}
+main, header, footer{
+    overflow: hidden;
+} 
+.head1{
+    position: fixed !important;
+}
+
+
+.searchbox::placeholder {
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+.searchicon {
+
+    margin-left: -51px;
+    margin-top: -4px;
+}
+
+.organiclogo {
+    width: 289px;
+    margin-left: 98px;
+    margin-top: 6px;
+}
+
+.pic1 {
+
+    margin-left: 50px;
+    margin-top: 16px;
+    width: 44px;
+}
+
+.welcome {
+    font-size: 19px;
+    margin-left: -27px;
+    margin-top: 12px;
+    color: #BEADAD;
+}
+.formsign{
+    position: fixed !important;
+    z-index: 5;
+}
+
+
+.sign {
+    border: none !important;
+    font-size: 17px;
+    margin-left:-35px;
+    margin-top: -20px;
+}
+
+.pic2 {
+
+    width: 44px;
+    margin-top: 17px;
+}
+
+.mycart {
+    margin-left: -71px;
+    font-size: 21px;
+    margin-top: 11px;
+    color: #BEADAD;
+}
+
+.rupees {
+    font-size: 16px;
+    margin-left: -67px;
+    margin-top: -4px;
+}
+
+.backgreen {
+    
+    width: 100%;
+    height: 70px;
+    
+    
+    background-color: #7FB401;
+
+
+}
+
+.home{
+    margin-left: 55px;
+    
+
+}
+.dropdown-item:hover{
+    background-color:#00FA32 !important;
+
+    animation-timing-function: ease-in-out;
+    animation-delay: 5s;
+    border: none !important;
+    
+}
+
+.home {
+    color: white !important;
+    font-weight: 700 !important;
+}
+
+.pic3 {
+    width: 35px;
+}
+
+.banner {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+
+}
+
+.pic4 {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    
+}
+
+.grapes{
+    position: absolute !important;
+    z-index: 5;
+    margin-left: 377px;
+    width: 73px;
+}
+.organicfood{
+   
+    position: absolute !important;
+    z-index: 5;
+    margin-left: 279px;
+    margin-top: 81px;
+    color: white;
+}
+.year{
+    position: absolute !important;
+    z-index: 5;
+    margin-left: 283px;
+    margin-top: 136px;
+}
+.line1{
+    position: absolute !important;
+    z-index: 5;
+    margin-top: 197px;
+    margin-left: 80px;
+    
+}
+.organicstore{
+    position: absolute !important;
+    z-index: 5;
+    font-size: 81px;
+    margin-top: 236px;
+    margin-left: 147px;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+}
+.fruitveg{
+    position: absolute !important;
+    z-index: 5;
+    margin-top: 349px;
+    margin-left: 274px;
+    color: white;
+}
+.quality{
+    position: absolute !important;
+    z-index: 5;
+    margin-top: 400px;
+    margin-left: 150px;
+    color: white;
+}
+.markus{
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    z-index: -1;
+    object-fit: cover;
+}
+.lightofgreen{
+    background-color: #14e05596;
+    width: 800px;
+    height: 156px;
+    margin: auto;
+    position: relative;
+    top: 230px;
+}
+.contactus{
+    font-size: 43px;
+    color: white;
+    margin-left: 312px;
+    font-weight: bold;
+
+}
+.onlineorganic{
+    color: white;
+    margin-top: 41px;
+    margin-left: 139px;
+    font-size: 20px;
+    font-family: 'Grandstander', cursive;
+    font-weight: 800;
+}
+.getin{
+    margin-top: 500px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.getin1{
+    margin-top: 500px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.ryte{
+    border: 2px solid black;
+    width:400px;
+    margin-top: 30px;
+    margin-left: 91px;
+    margin-bottom: 50px;
+}
+.homy{
+    margin-top: 10px;
+}
+.para1{
+    margin-top: 5px;
+}
+.para2{
+    margin-top: 5px;
+}
+.jilla{
+    margin-left: 170px;
+}
+.homy1{
+    margin-top: -10px;
+    margin-left: -17px;
+}
+.para2{
+    margin-top: 10px;
+}
+.workhour{
+    font-size: 20px;
+}
+.monday{
+    font-size: 17px;
+    font-weight: 200;
+}
+.inputpage{
+    margin-left: 12px;
+     padding: 0px 30px 9px 2px;
+    width: 431px;
+    height: 44px;
+    margin-bottom: 50PX;
+}
+.inputpage1{
+    margin-left: 12px;
+     padding: 0px 30px 9px 2px;
+    width: 431px;
+    height: 190px;
+    margin-bottom: 50PX;
+}
+.postcomment{
+    text-decoration: none;
+    color: white;
+    background-color: #7FB401;
+    padding: 5px 20px 8px 20px;
+    margin-left: 615px;
+    margin-bottom: 50px;
+}
+.map{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+.backblack {
+    background-color: #363636;
+    width: 100%;
+    height: 400px;
+}
+
+.darkblack {
+    background-color: #2F2F2F;
+    width: 100%;
+    height: 50px;
+}
+
+.whiteorganiclogo {
+    width: 252px;
+    margin-top: 10px;
+    margin-left: 23px;
+    margin-bottom: 30px;
+
+}
+
+.footpara {
+    color: white;
+    margin-left: 23px;
+
+}
+
+.buytheme {
+    background-color: #7FB401;
+    padding: 10px 30px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: none;
+}
+
+.buytheme a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.category {
+    color: white;
+    font-size: 22px;
+    margin-left: 80px;
+    margin-top: 28px;
+}
+
+.form {
+    margin-top: 40px
+}
+
+.closed {
+    color: #7FB401;
+}
+
+.formers {
+    font-size: 17px;
+    color: white;
+    margin-left: 80px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.copyright {
+    color: white;
+    margin-left: 28px;
+    margin-top: 15px;
+}
+.icon1{
+    margin-top: 10px;
+}
+.icon3{
+    margin-top: 10px;
+}
+.icon4{
+    margin-top: 10px;
+    height: 30px;
+}
+.company{
+    color: black;
+    background-color: #7FB401;
+    padding: 2px 33px 8px 32px;
+    margin-left: 79px;
+    border-radius: 10px;
+    position: relative;
+    top: 13px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+@media screen and (max-width:500px) {
+    .searchbox {
+        margin-left: 44px;
+        width: 300px;
+    }
+
+    .organiclogo {
+        width: 243px;
+        margin-left: -144px;
+        margin-top: 71px;
+    }
+    .welcome {
+        margin-left: -4px;
+    }
+  
+    .sign {
+
+        margin-left: -16px;
+
+    }
+   
+    .mycart {
+        margin-left: -49px;
+    }
+    .rupees {
+        margin-left: -49px;
+    }
+
+    .backgreen {
+
+        width: 100%;
+        height: auto;
+
+
+    }
+    .markus{
+        width: 100%;
+        height: auto;
+        
+    }
+    .contactus {
+        font-size: 24px;
+        color: white;
+        margin-left: 125px;
+        font-weight: bold;
+    }
+    
+
+.onlineorganic {
+    color: white;
+    margin-top: 18px;
+    margin-left: 60px;
+    font-size: 10px;
+    font-family: 'Grandstander', cursive;
+    font-weight: 800;
+}
+.lightofgreen {
+    background-color: #14e05596;
+    width: 364px;
+    height: 88px;
+    margin: auto;
+    position: relative;
+    top: 57px;
+}
+
+.getin {
+    margin-top: 138px;
+    margin-left: 27px;
+    margin-bottom: 40px;
+}
+.ryte{
+    border: 2px solid black;
+    width:300px;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 11px;
+    margin-bottom: 50px;
+}
+  .reyrt{
+    margin-left: -130px;
+  } 
+  .para1 {
+    margin-top: 15px;
+    margin-left: -89px;
+}
+.para2 {
+    margin-top: -65px;
+    margin-left: 77px;
+}
+
+
+.monday {
+    font-size: 10px;
+    /* font-weight: 200; */
+}
+.getin {
+    margin-top: 154px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+.getin1 {
+    margin-top: 1px;
+    margin-left: -86px;
+    margin-bottom: 40px;
+}
+.thull {
+    margin-left: -165px;
+}
+.inputpage{
+    width: 350px;
+}
+.inputpage1{
+    width: 350px;
+}
+.postcomment {
+    margin-left: 106px;
+}
+.map {
+    margin-top: 50px;
+    height: 200px;
+}
+.backblack {
+    background-color: #363636;
+    width: 100%;
+    height: auto;
+}
+.copyright {
+    color: white;
+    margin-left: 11px;
+    margin-top: 17px;
+    font-size: 10px;
+}
+.icon1, .icon2, .icon3, .icon4{
+    margin-left: 220px;
+    margin-top: -80px;
+    width: 33px;
+    height: 33px;
+    
+}
+}

@@ -1,0 +1,1072 @@
+.searchbox {
+    width: 386px;
+    height: 46px;
+    margin-top: 13px;
+    margin-left: 69px;
+    padding: .375rem .75rem;
+    border-radius: 30px;
+    border: 1px solid #CFC7C7;
+}
+
+main,
+header,
+footer {
+    overflow: hidden;
+}
+
+.head1 {
+    position: fixed !important;
+}
+
+
+.searchbox::placeholder {
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+.searchicon {
+
+    margin-left: -51px;
+    margin-top: -4px;
+}
+
+.organiclogo {
+    width: 289px;
+    margin-left: 98px;
+    margin-top: 6px;
+}
+
+.pic1 {
+
+    margin-left: 50px;
+    margin-top: 16px;
+    width: 44px;
+}
+
+.welcome {
+    font-size: 19px;
+    margin-left: -27px;
+    margin-top: 12px;
+    color: #BEADAD;
+}
+
+.formsign {
+    position: fixed !important;
+    z-index: 5;
+}
+
+
+.sign {
+    border: none !important;
+    font-size: 17px;
+    margin-left: -35px;
+    margin-top: -20px;
+}
+
+.pic2 {
+
+    width: 44px;
+    margin-top: 17px;
+}
+
+.mycart {
+    margin-left: -71px;
+    font-size: 21px;
+    margin-top: 11px;
+    color: #BEADAD;
+}
+
+.rupees {
+    font-size: 16px;
+    margin-left: -67px;
+    margin-top: -4px;
+}
+
+.backgreen {
+
+    width: 100%;
+    height: 70px;
+
+
+    background-color: #7FB401;
+
+
+}
+
+.home {
+    margin-left: 55px;
+
+
+
+}
+.home:hover {
+    color: rgb(0, 0, 0);
+    background-color: #2F2F2F;
+}
+
+.dropdown-item:hover {
+    background-color: #00FA32 !important;
+
+    animation-timing-function: ease-in-out;
+    animation-delay: 5s;
+    border: none !important;
+
+}
+
+.home {
+    color: white !important;
+    font-weight: 700 !important;
+}
+
+.pic3 {
+    width: 35px;
+}
+
+.banner {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+
+}
+
+.pic4 {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+
+}
+
+.grapes {
+    position: absolute !important;
+    z-index: 5;
+    margin-left: 377px;
+    width: 73px;
+}
+
+.organicfood {
+
+    position: absolute !important;
+    z-index: 5;
+    margin-left: 279px;
+    margin-top: 81px;
+    color: white;
+}
+
+.year {
+    position: absolute !important;
+    z-index: 5;
+    margin-left: 283px;
+    margin-top: 136px;
+}
+
+.line1 {
+    position: absolute !important;
+    z-index: 5;
+    margin-top: 197px;
+    margin-left: 80px;
+
+}
+
+.carousel-control-next:focus,
+.carousel-control-next:hover,
+.carousel-control-prev:focus,
+.carousel-control-prev:hover {
+    position: absolute;
+    z-index: 5;
+    color: black !important;
+}
+
+.organicstore {
+    position: absolute !important;
+    z-index: 5;
+    font-size: 81px;
+    margin-top: 236px;
+    margin-left: 147px;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+}
+
+.fruitveg {
+    position: absolute !important;
+    z-index: 5;
+    margin-top: 349px;
+    margin-left: 274px;
+    color: white;
+}
+
+.quality {
+    position: absolute !important;
+    z-index: 5;
+    margin-top: 400px;
+    margin-left: 150px;
+    color: white;
+}
+
+
+
+
+
+.cosmetics1 {
+    width: 619px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.cosmetics2 {
+    width: 605px;
+    margin-top: 30px;
+    margin-left: 84px;
+}
+
+.lightwhite {
+    width: 390px;
+    height: 123px;
+    background-color: #ffffff85;
+    margin-top: 105px;
+    position: absolute;
+    z-index: 5;
+    margin-left: 107px;
+}
+.lightwhite1 {
+    width: 428px;
+    height: 130px;
+    background-color: #ffffff85;
+    margin-top: 105px;
+    position: absolute;
+    z-index: 5;
+    margin-left: 107px;
+}
+
+.hightaste {
+    position: relative;
+    top: -300px;
+    left: 100px;
+    z-index: 5;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 25px;
+    width: 374px;
+
+}
+.hightaste1 {
+    position: relative;
+    top: -300px;
+    left: 100px;
+    z-index: 5;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 25px;
+    width: 426px;
+
+}
+
+.more {
+    color: rgb(255, 255, 255);
+    margin-top: -250px;
+    margin-left: 200px;
+    font-size: 25px;
+}
+.mores {
+    color: rgb(255, 255, 255);
+    margin-top: -250px;
+    margin-left: 200px;
+    font-size: 25px;
+}
+
+.line2 {
+    width: 200px;
+    height: 7px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 5;
+    margin-left: 200px;
+   
+}
+.line3 {
+    width: 200px;
+    height: 7px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: 5;
+    margin-left: 266px;
+}
+
+.more1 {
+    color: rgb(255, 255, 255);
+    margin-top: -250px;
+    margin-left: 265px;
+    font-size: 25px;
+}
+
+.featured {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 150px;
+
+}
+
+.all {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 60px;
+
+}
+
+.pic5 {
+    width: auto;
+    height: 150px;
+    margin-left: 91px;
+    margin-top: 30px;
+}
+
+.fill {
+    width: auto;
+    height: 150px;
+    margin-left: 53px;
+    margin-top: 30px;
+}
+
+.fill1 {
+    width: auto;
+    height: 150px;
+    margin-left: 78px;
+    margin-top: 30px;
+}
+
+.fill2 {
+    width: auto;
+    height: 150px;
+    margin-left: 74px;
+    margin-top: 30px;
+}
+
+.powder {
+    font-size: 20px;
+    margin-left: 47px;
+    color: #8F8C8C;
+}
+
+.ture {
+    margin-left: 0px;
+}
+
+.ktm {
+    margin-top: 40px;
+}
+
+.pic6 {
+    width: 123px;
+    margin-left: 64px;
+}
+
+.doller {
+    font-size: 20px;
+    margin-left: 99px;
+    margin-top: 10px;
+}
+
+.choose {
+    position: relative;
+    left: 310px;
+    top: 79px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.pic7 {
+    margin-top: -141px;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.para1 {
+    position: relative;
+    top: 140px;
+    left: 100px;
+    font-size: 26px;
+    width: 70%;
+    font-family: 'Inria Sans', sans-serif;
+}
+
+.top {
+    margin-top: 30px;
+}
+
+.apple {
+    width: 70px;
+    margin-top: 18px;
+}
+
+.apple1 {
+    width: 123px;
+    margin-top: 14px;
+}
+
+.apple2 {
+    width: 100px;
+    margin-left: -30px;
+}
+
+.a100 {
+    margin-left: -45px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.duis {
+    margin-left: -44px;
+}
+
+.apple4 {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.topsell {
+    text-align: left;
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+.pic8 {
+    width: 408px;
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.latest {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+
+
+.pic9 {
+    margin-top: 60px;
+    margin-left: 10px;
+    width: 407px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.tag1 {
+    margin-top: 7px;
+    margin-left: 52px;
+    width: 20px;
+}
+
+.health {
+    font-size: 20px;
+    margin-top: 2px;
+    margin-left: 14px;
+}
+
+.messagetag {
+    margin-top: 5px;
+    margin-left: 54px;
+    width: 20px;
+}
+
+.review {
+    font-size: 18px;
+    margin-top: 6px;
+    margin-left: 8px;
+}
+
+.lineup {
+    width: 408px;
+    height: 2px;
+    background-color: #FF9900;
+
+    margin-left: 9px;
+}
+
+.newspara {
+    font-size: 22px;
+    font-weight: 450;
+    margin-left: 10px;
+}
+
+.btn {
+    width: 100%;
+
+
+
+}
+
+.btn a {
+    padding: 4px 20px;
+    background-color: #7FB401;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+
+
+
+}
+
+
+
+
+
+.former {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+
+.harsha {
+    margin-top: 90px;
+}
+
+.george {
+    font-size: 20px;
+    width: 100%;
+    margin-left: 60px;
+}
+
+.arable {
+    font-size: 16px;
+    margin-left: 80px;
+    color: #7FB401;
+}
+
+.system {
+    text-align: center;
+}
+
+.carousel-control-next:focus,
+.carousel-control-next:hover,
+.carousel-control-prev:focus,
+.carousel-control-prev:hover {
+    position: absolute;
+    z-index: 5;
+    color: black !important;
+}
+
+
+.footer {
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.backblack {
+    background-color: #363636;
+    width: 100%;
+    height: 400px;
+    margin-top: 70px;
+}
+
+.darkblack {
+    background-color: #2F2F2F;
+    width: 100%;
+    height: 50px;
+}
+
+.whiteorganiclogo {
+    width: 252px;
+    margin-top: 10px;
+    margin-left: 23px;
+    margin-bottom: 30px;
+
+}
+
+.footpara {
+    color: white;
+    margin-left: 23px;
+
+}
+
+.buytheme {
+    background-color: #7FB401;
+    padding: 10px 30px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: none;
+}
+
+.buytheme a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.category {
+    color: white;
+    font-size: 22px;
+    margin-left: 80px;
+    margin-top: 28px;
+}
+
+.form {
+    margin-top: 40px
+}
+
+.closed {
+    color: #7FB401;
+}
+
+.formers {
+    font-size: 17px;
+    color: white;
+    margin-left: 80px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.copyright {
+    color: white;
+    margin-left: 28px;
+    margin-top: 11px;
+    font-size: 20px;
+}
+
+.icon1 {
+    margin-top: 10px;
+}
+
+.icon3 {
+    margin-top: 10px;
+}
+
+.icon4 {
+    margin-top: 10px;
+    height: 30px;
+}
+
+.ak {
+    color: #7FB401;
+    font-family: 'Inder', sans-serif;
+    font-weight: 500;
+}
+
+.carousel-control-next-icon {
+    background-image: url(/assets/images/25-254232_right-arrow-icon-green-circle-with-arrow-icon.png) !important;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(/assets/images/25-254232_right-arrow-icon-green-circle-with-arrow-icon.png) !important;
+    transform: rotate(180deg);
+}
+
+.company {
+    color: black;
+    background-color: #7FB401;
+    padding: 2px 33px 8px 32px;
+    margin-left: 79px;
+    border-radius: 10px;
+    position: relative;
+    top: 13px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:500px) {
+    .searchbox {
+        margin-left: 44px;
+        width: 300px;
+    }
+
+    .organiclogo {
+        width: 243px;
+        margin-left: 61px;
+        margin-top: -12px;
+    }
+
+    .welcome {
+
+        margin-left: -4px;
+    }
+
+    .sign {
+
+        margin-left: -16px;
+
+    }
+
+    .mycart {
+        margin-left: -49px;
+    }
+
+    .rupees {
+
+        margin-left: -49px;
+
+    }
+
+    .backgreen {
+
+        width: 100%;
+        height: auto;
+
+
+    }
+
+    .pic4 {
+        height: 380px;
+    }
+
+    .grapes {
+
+        margin-left: 59px;
+        width: 43px;
+    }
+
+    .organicfood {
+
+        margin-left: 22px;
+        margin-top: 53px;
+
+        font-size: 20px;
+    }
+
+
+    .year {
+
+        margin-left: 13px;
+        margin-top: 93px;
+        width: 200px;
+    }
+
+    .line1 {
+        position: absolute !important;
+        z-index: 5;
+        margin-top: 157px;
+        margin-left: 12px;
+        width: 249px;
+    }
+
+    .organicstore {
+
+        font-size: 30px;
+        margin-top: 169px;
+        margin-left: 40px;
+
+
+    }
+
+    .fruitveg {
+
+        margin-top: 212px;
+        margin-left: 75px;
+
+        font-size: 11px;
+    }
+
+    .quality {
+        margin-top: 262px;
+        margin-left: 19px;
+        font-size: 15px;
+        position: absolute;
+        z-index: 5;
+    }
+
+    .cosmetics1 {
+        width: 389px;
+        margin-top: -202px;
+        margin-left: -2px;
+        position: absolute;
+        z-index: 5;
+    }
+    .cosmetics2 {
+        width: 378px;
+    margin-top: -7px;
+    margin-left: 9px;
+    }
+
+    .hightaste {
+      
+        top: -186px;
+        left: 10px;
+       
+        font-family: 'Inconsolata', monospace;
+        font-weight: 700;
+        font-size: 19px;
+        width: 343px;
+
+    }
+
+    .more {
+
+        font-size: 25px;
+        margin-left: 100px;
+        position: relative;
+        top: 30px;
+        left: 50px;
+        z-index: 5;
+    }
+
+    .line2 {
+        
+    margin-left: 108px;
+    margin-top: -76px;
+
+    }
+    .more1 {
+        color: rgb(255, 255, 255);
+        margin-top: -175px;
+        margin-left: 103px;
+        font-size: 25px;
+    }
+
+    .line3 {
+        width: 200px;
+        height: 7px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        z-index: 5;
+        margin-left: 102px;
+    }
+    .lightwhite1 {
+        width: 326px;
+        height: 171px;
+        background-color: #ffffff85;
+        margin-top: -101px;
+        position: absolute;
+        z-index: 5;
+        margin-left: 107px;
+    }
+
+    .lightwhite {
+        width: 308px;
+        height: 70px;
+        background-color: #ffffff85;
+        margin-top: 55px;
+        position: absolute;
+        z-index: 5;
+        margin-left: 10px;
+    }
+    .hightaste1 {
+        position: relative;
+        top: -146px;
+
+        left: 5px;
+        z-index: 5;
+        font-family: 'Inconsolata', monospace;
+        font-weight: 700;
+        font-size: 20px;
+        width: 343px;
+    }
+    .mores {
+        color: rgb(255, 255, 255);
+        margin-top: -118px;
+        margin-left: 110px;
+        font-size: 25px;
+        position: absolute;
+        z-index: 5;
+    }
+
+    .featured {
+
+        margin-top: 95px;
+    }
+
+    .all {
+        margin-left: 140px;
+    }
+
+    .container {
+        margin-left: 200px;
+    }
+
+    .pic5 {
+        margin-left: 137px;
+    }
+
+    .powder {
+        margin-left: 90px;
+    }
+
+    .pic6 {
+        margin-left: 108px;
+    }
+
+    .doller {
+        margin-left: 143px;
+    }
+
+    .fill2 {
+        margin-left: 123px;
+        margin-top: 30px;
+    }
+
+    .fill1 {
+        width: auto;
+        height: 150px;
+        margin-left: 129px;
+    }
+
+    .fill {
+        width: auto;
+        height: 150px;
+        margin-left: 101px;
+        margin-top: 30px;
+    }
+
+    .choose {
+        position: relative;
+        left: 30px;
+        top: 79px;
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 70px;
+    }
+
+    .pic7 {
+        margin-top: -23px;
+
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .para1 {
+        position: relative;
+        top: 83px;
+        left: 2px;
+        font-size: 14px;
+        width: 100%;
+        font-family: 'Inria Sans', sans-serif;
+    }
+
+    .apple {
+        width: 70px;
+        margin-top: 18px;
+        margin: auto;
+        margin-left: 130px;
+    }
+
+    .apple1 {
+        width: 123px;
+        margin-top: 14px;
+        margin-left: 100px;
+    }
+
+    .apple2 {
+        width: 100px;
+        margin-left: -30px;
+        margin-left: 110px;
+    }
+
+    .apple4 {
+        width: 100px;
+        margin-top: 20px;
+        margin-left: 110px;
+    }
+
+    .a100 {
+        margin-left: 0px;
+        font-size: 25px;
+        margin-top: 10px;
+    }
+
+    .duis {
+        margin-left: 6px;
+    }
+
+    .topsell {
+        text-align: left;
+        font-size: 30px;
+        margin-left: 26px;
+        margin-top: 40px;
+    }
+
+    .pic8 {
+        width: 343px;
+    }
+
+    .pic9 {
+
+        width: 342px;
+
+    }
+
+    .health {
+
+
+        margin-left: 48px;
+    }
+
+    .messagetag {
+
+        margin-left: 75px;
+
+    }
+
+    .lineup {
+        width: 340px;
+        height: 2px;
+        background-color: #FF9900;
+        margin-left: 12px;
+    }
+
+    .newspara {
+        font-size: 22px;
+        font-weight: 450;
+        margin-left: -1px;
+        text-align: center;
+    }
+
+    .backblack {
+        background-color: #363636;
+        width: 100%;
+        height: auto;
+        margin-top: 70px;
+    }
+
+    .copyright {
+        color: white;
+        margin-left: 11px;
+        margin-top: 17px;
+        font-size: 10px;
+    }
+
+    .icon1,
+    .icon2,
+    .icon3,
+    .icon4 {
+        margin-left: 220px;
+        margin-top: -80px;
+        width: 33px;
+        height: 33px;
+
+    }
+
+
+}
+
+
+
